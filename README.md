@@ -6,7 +6,7 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 ## Table of Contents
 
-- [PHP polyfills](php-polyfills)
+- [PHP polyfills](#php-polyfills)
   
 ### PHP polyfills
 
