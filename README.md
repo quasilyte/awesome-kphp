@@ -10,8 +10,8 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 [Developer tools](#developer-tools)
 
-* [KPHPStorm](kphpstorm)
-* [ktest](ktest)
+* [KPHPStorm](#kphpstorm---phpstorm-plugin-that-makes-ide-understand-kphp-specifics)
+* [ktest](#ktest---a-tool-to-execute-unit-tests-and-benchmarks-for-kphp)
   
 ### PHP polyfills
 
