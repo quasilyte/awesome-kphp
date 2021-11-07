@@ -15,7 +15,7 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 [Games](#games)
 
-* [quasilyte/kphp-game](#__)
+* [quasilyte/kphp-game](#quasilytekphp-game---a-simple-rogue-like-rpg-game-with-2d-graphics-uses-sdl2-for-rendering)
 
 [Articles](#articles)
 
