@@ -13,6 +13,10 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 * [KPHPStorm](#kphpstorm---phpstorm-plugin-that-makes-ide-understand-kphp-specifics)
 * [ktest](#ktest---a-tool-to-execute-unit-tests-and-benchmarks-for-kphp)
 
+[Games](#games)
+
+* [quasilyte/kphp-game](#__)
+
 [Articles](#articles)
 
 [Talks](#talks)
@@ -31,7 +35,7 @@ Various CLI programs, editor/IDE plugins, language servers and so on. Everything
 
 #### [KPHPStorm](https://github.com/unserialize/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
 
-#### [ktest](github.com/quasilyte/ktest) - a tool to execute unit tests and benchmarks for KPHP
+#### [ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
 
 ### Games
 
