@@ -8,7 +8,7 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 [PHP polyfills](#php-polyfills)
 
-* [kphp-polyfills]
+* [kphp-polyfills](#kphp-polyfills---use-kphp-specific-functions-from-php)
 
 [Developer tools](#developer-tools)
 
