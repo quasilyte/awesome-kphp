@@ -7,6 +7,7 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 ## Table of Contents
 
 * [PHP polyfills](#php-polyfills)
+* [Libraries](#ffi-libraries)
 * [Developer tools](#developer-tools)
 * [Games](#games)
 * [Articles (ru)](#articles-ru)
@@ -21,6 +22,12 @@ That PHP library can be used as a KPHP polyfill so it can use that functionallit
 a C library port.
 
 * [VKCOM/kphp-polyfills](https://github.com/VKCOM/kphp-polyfills) - use KPHP-specific functions from PHP
+
+### FFI libraries
+
+FFI-based libraries. Usually can be used in both PHP and KPHP.
+
+* [quasilyte/kphp-sdlite](https://github.com/quasilyte/kphp-sdlite) - SDL2 bindings example
 
 ### Developer tools
 
