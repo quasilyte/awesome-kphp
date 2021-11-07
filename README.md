@@ -9,8 +9,8 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 * [PHP polyfills](#php-polyfills)
 * [Developer tools](#developer-tools)
 * [Games](#games)
-* [Articles (ru)](#articles)
-* [Talks (ru)](#talks)
+* [Articles (ru)](#articles-ru)
+* [Talks (ru)](#talks-ru)
   
 ### PHP polyfills
 
