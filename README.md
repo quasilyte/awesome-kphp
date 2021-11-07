@@ -20,14 +20,14 @@ For example, some builtin PHP extensions that are written in C can be implemente
 That PHP library can be used as a KPHP polyfill so it can use that functionallity even without
 a C library port.
 
-* [kphp-polyfills](https://github.com/VKCOM/kphp-polyfills) - use KPHP-specific functions from PHP
+* [VKCOM/kphp-polyfills](https://github.com/VKCOM/kphp-polyfills) - use KPHP-specific functions from PHP
 
 ### Developer tools
 
 Various CLI programs, editor/IDE plugins, language servers and so on. Everything that can make the KPHP developer life easier.
 
-* [KPHPStorm](https://github.com/unserialize/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
-* [ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
+* [unserialize/KPHPStorm](https://github.com/unserialize/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
+* [VKCOM/ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
 
 ### Games
 
