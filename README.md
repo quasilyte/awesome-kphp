@@ -33,6 +33,12 @@ Various CLI programs, editor/IDE plugins, language servers and so on. Everything
 
 #### [ktest](github.com/quasilyte/ktest) - a tool to execute unit tests and benchmarks for KPHP
 
+### Games
+
+Games created with KPHP.
+
+#### [quasilyte/kphp-game](https://github.com/quasilyte/kphp-game) - a simple rogue-like RPG game with 2D graphics (uses SDL2 for rendering)
+
 ### Articles
 
 * [Пробуем KPHP: реально ли его использовать в своих проектах](https://php.zone/post/kphp-in-life)
