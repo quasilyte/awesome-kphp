@@ -6,12 +6,14 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 ## Table of Contents
 
-* [PHP polyfills](#php-polyfills)
-* [Libraries](#ffi-libraries)
+* Libraries
+  * [PHP polyfills](#php-polyfills)
+  * [FFI Libraries](#ffi-libraries)
 * [Developer tools](#developer-tools)
 * [Games](#games)
-* [Articles (ru)](#articles-ru)
-* [Talks (ru)](#talks-ru)
+* Learning materials
+  * [Articles (ru)](#articles-ru)
+  * [Talks (ru)](#talks-ru)
   
 ### PHP polyfills
 
