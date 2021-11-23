@@ -47,12 +47,14 @@ Games created with KPHP.
 
 ### Articles (ru)
 
+* [Создаём игру на KPHP с помощью FFI и SDL](https://habr.com/ru/company/vk/blog/581238/)
 * [Пробуем KPHP: реально ли его использовать в своих проектах](https://php.zone/post/kphp-in-life)
 * [Заметки KPHP: тестирование и бенчмарки](https://habr.com/ru/company/vk/blog/572424/)
 * [ВКонтакте снова выкладывает KPHP](https://habr.com/ru/company/vk/blog/527420/)
 
 ### Talks (ru)
 
+* [KPHP FFI](https://speakerdeck.com/quasilyte/kphp-ffi)
 * [Плюсы и минусы компилируемого PHP](https://vk.com/wall-147415323_4677?z=video-147415323_456239083%2Fab939a83cc8e115d47%2Fpl_post_-147415323_4677)
 * [PHP scripts -> Release binaries](https://www.youtube.com/watch?v=nr1883za8tM&t=306s)
 * [KPHP внутри VK: что там у нас происходит](https://www.youtube.com/watch?v=3vO2TAkq7zE)
