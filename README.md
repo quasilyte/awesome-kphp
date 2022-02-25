@@ -30,6 +30,7 @@ a C library port.
 
 FFI-based libraries. Usually can be used in both PHP and KPHP.
 
+* [quasilyte/ksqlite](https://github.com/quasilyte/KSQLite) - fully functional SQLite3 bindings
 * [quasilyte/kphp-sdlite](https://github.com/quasilyte/kphp-sdlite) - SDL2 bindings example
 
 ### Developer tools
