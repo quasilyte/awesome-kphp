@@ -8,6 +8,7 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
 
 * Libraries
   * [PHP polyfills](#php-polyfills)
+  * [Libraries](#libraries)
   * [FFI Libraries](#ffi-libraries)
 * [Developer tools](#developer-tools)
 * [Games](#games)
@@ -26,11 +27,17 @@ a C library port.
 
 * [VKCOM/kphp-polyfills](https://github.com/VKCOM/kphp-polyfills) - use KPHP-specific functions from PHP
 
+### Libraries
+
+Libraries that work in both PHP and KPHP.
+
+* [quasilyte/KFinalize](https://github.com/quasilyte/KFinalize) - `register_shutdown_function()` without limits
+
 ### FFI libraries
 
 FFI-based libraries. Usually can be used in both PHP and KPHP.
 
-* [quasilyte/ksqlite](https://github.com/quasilyte/KSQLite) - fully functional SQLite3 bindings
+* [quasilyte/KSQLite](https://github.com/quasilyte/KSQLite) - fully functional SQLite3 bindings
 * [quasilyte/kphp-sdlite](https://github.com/quasilyte/kphp-sdlite) - SDL2 bindings example
 
 ### Developer tools
