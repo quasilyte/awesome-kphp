@@ -55,6 +55,7 @@ Games created with KPHP.
 
 ### Articles (ru)
 
+* [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/)
 * [Создаём игру на KPHP с помощью FFI и SDL](https://habr.com/ru/company/vk/blog/581238/)
 * [Пробуем KPHP: реально ли его использовать в своих проектах](https://php.zone/post/kphp-in-life)
 * [Заметки KPHP: тестирование и бенчмарки](https://habr.com/ru/company/vk/blog/572424/)
@@ -62,7 +63,6 @@ Games created with KPHP.
 
 ### Talks (ru)
 
-* [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/)
 * [KPHP FFI](https://speakerdeck.com/quasilyte/kphp-ffi)
 * [Плюсы и минусы компилируемого PHP](https://vk.com/wall-147415323_4677?z=video-147415323_456239083%2Fab939a83cc8e115d47%2Fpl_post_-147415323_4677)
 * [PHP scripts -> Release binaries](https://www.youtube.com/watch?v=nr1883za8tM&t=306s)
