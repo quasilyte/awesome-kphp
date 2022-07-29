@@ -46,6 +46,7 @@ Various CLI programs, editor/IDE plugins, language servers and so on. Everything
 
 * [unserialize/KPHPStorm](https://github.com/unserialize/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
 * [VKCOM/ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
+* [VKCOM/noverify](https://github.com/VKCOM/noverify) - a static analyzer (linter) that supports PHP and KPHP
 
 ### Games
 
