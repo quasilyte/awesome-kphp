@@ -2,8 +2,6 @@
 
 A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libraries, resources and software.
 
-> Note: this list is a work in progress, but stay tuned!
-
 ## Table of Contents
 
 * Libraries
