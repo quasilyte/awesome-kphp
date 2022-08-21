@@ -32,6 +32,7 @@ a C library port.
 Libraries that work in both PHP and KPHP.
 
 * [quasilyte/KFinalize](https://github.com/quasilyte/KFinalize) - `register_shutdown_function()` without limits
+* [quasilyte/KTemplate](https://github.com/quasilyte/KTemplate) - A simple text template engine with Twig-like syntax
 
 ### FFI libraries
 
