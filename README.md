@@ -56,6 +56,7 @@ Games created with KPHP.
 
 ### Articles (ru)
 
+* [Встраиваем Lua в PHP через FFI](https://habr.com/ru/company/vk/blog/681400/)
 * [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/)
 * [Создаём игру на KPHP с помощью FFI и SDL](https://habr.com/ru/company/vk/blog/581238/)
 * [Пробуем KPHP: реально ли его использовать в своих проектах](https://php.zone/post/kphp-in-life)
