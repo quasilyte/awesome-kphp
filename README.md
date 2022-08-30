@@ -44,7 +44,7 @@ FFI-based libraries. Usually can be used in both PHP and KPHP.
 
 Various CLI programs, editor/IDE plugins, language servers and so on. Everything that can make the KPHP developer life easier.
 
-* [unserialize/KPHPStorm](https://github.com/unserialize/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
+* [VKCOM/KPHPStorm](https://github.com/VKCOM/kphpstorm) - PhpStorm plugin that makes IDE understand KPHP specifics
 * [VKCOM/ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
 * [VKCOM/noverify](https://github.com/VKCOM/noverify) - a static analyzer (linter) that supports PHP and KPHP
 
