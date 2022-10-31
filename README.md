@@ -8,7 +8,9 @@ A curated list of amazingly awesome [KPHP](https://github.com/VKCOM/kphp/) libra
   * [PHP polyfills](#php-polyfills)
   * [Libraries](#libraries)
   * [FFI Libraries](#ffi-libraries)
-* [Developer tools](#developer-tools)
+* Tools
+  * [Developer tools](#developer-tools)
+  * [Infrastructure tools](#infrastructure-tools)
 * [Games](#games)
 * Learning materials
   * [Articles (ru)](#articles-ru)
@@ -48,6 +50,12 @@ Various CLI programs, editor/IDE plugins, language servers and so on. Everything
 * [VKCOM/ktest](https://github.com/VKCOM/ktest) - a tool to execute unit tests and benchmarks for KPHP
 * [VKCOM/noverify](https://github.com/VKCOM/noverify) - a static analyzer (linter) that supports PHP and KPHP
 
+### Infrastructure tools
+
+Various tools that helps you to integrate the KPHP toolchain.
+
+* [VKCOM/nocc](https://github.com/VKCOM/nocc) - A distributed C++ compiler: like distcc, but faster; works nicely with KPHP
+
 ### Games
 
 Games created with KPHP.
@@ -56,6 +64,8 @@ Games created with KPHP.
 
 ### Articles (ru)
 
+* [nocc — распределённый компилятор для гигантских проектов на С++](https://habr.com/ru/company/vk/blog/694536/)
+* [Цветные функции: ищем плохие архитектурные паттерны](https://habr.com/ru/company/vk/blog/691828/)
 * [Встраиваем Lua в PHP через FFI](https://habr.com/ru/company/vk/blog/681400/)
 * [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/)
 * [Создаём игру на KPHP с помощью FFI и SDL](https://habr.com/ru/company/vk/blog/581238/)
