@@ -83,3 +83,4 @@ Games created with KPHP.
 ### Community
 
 * <https://t.me/kphp_chat> - main KPHP users chat in Telegram
+* <https://t.me/kphp_dev_blog> - KPHP developers blog (currently only in Russian)
