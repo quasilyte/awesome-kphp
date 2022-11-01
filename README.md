@@ -75,12 +75,12 @@ Games created with KPHP.
 
 ### Talks (ru)
 
-* [Разбор nocolor и концепции цветных функций в KPHP](https://www.youtube.com/watch?v=DCMp_FgEITwhttps://www.youtube.com/watch?v=DCMp_FgEITw)
-* [nocc: распределённый компилятор, который быстрее distcc](https://www.youtube.com/watch?v=8v0HOMrGixY)
+* [Разбор nocolor и концепции цветных функций в KPHP](https://youtu.be/DCMp_FgEITw)
+* [nocc: распределённый компилятор, который быстрее distcc](https://youtu.be/8v0HOMrGixY)
 * [KPHP FFI](https://speakerdeck.com/quasilyte/kphp-ffi)
-* [Плюсы и минусы компилируемого PHP](https://vk.com/wall-147415323_4677?z=video-147415323_456239083%2Fab939a83cc8e115d47%2Fpl_post_-147415323_4677)
-* [PHP scripts -> Release binaries](https://www.youtube.com/watch?v=nr1883za8tM&t=306s)
-* [KPHP внутри VK: что там у нас происходит](https://www.youtube.com/watch?v=3vO2TAkq7zE)
+* [Плюсы и минусы компилируемого PHP](https://youtu.be/XtAQIbJh1-E)
+* [PHP scripts -> Release binaries](https://youtu.be/nr1883za8tM?t=306)
+* [KPHP внутри VK: что там у нас происходит](https://youtu.be/3vO2TAkq7zE)
 
 ### Community
 
