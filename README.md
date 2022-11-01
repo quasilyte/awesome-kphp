@@ -64,6 +64,8 @@ Games created with KPHP.
 
 ### Articles (ru)
 
+* [Как мы наш большой проект на KPHP мигрировали](https://habr.com/ru/post/686496/)
+* [Заворачиваем облачный PHP-сервис в коробку — с защитой, лицензией, и при этом ускорились](https://vc.ru/services/526585-kak-my-oblachnyy-php-servis-zavernuli-v-korobku-s-zashchitoy-licenziey-i-pri-etom-uskorilis)
 * [nocc — распределённый компилятор для гигантских проектов на С++](https://habr.com/ru/company/vk/blog/694536/)
 * [Цветные функции: ищем плохие архитектурные паттерны](https://habr.com/ru/company/vk/blog/691828/)
 * [Встраиваем Lua в PHP через FFI](https://habr.com/ru/company/vk/blog/681400/)
