@@ -41,6 +41,8 @@ FFI-based libraries. Usually can be used in both PHP and KPHP.
 * [quasilyte/KLua](https://github.com/quasilyte/KLua) - liblua5 bindings to run Lua scripts on the fly
 * [quasilyte/KSQLite](https://github.com/quasilyte/KSQLite) - fully functional SQLite3 bindings
 * [quasilyte/kphp-sdlite](https://github.com/quasilyte/kphp-sdlite) - SDL2 bindings example
+* [comm644/sigmalab-xmlparser](https://github.com/comm644/sigmalab-xmlparser) - xml_parser implementation for KPHP
+* [comm644/kphp-nusoap](https://github.com/comm644/kphp-nusoap) - NuSOAP adopted for KPHP
 
 ### Developer tools
 
